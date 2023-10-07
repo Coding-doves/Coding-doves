@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ada B. Okonkwo
 #### Software developer
-![Software developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software developer](https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif)
 
 I've been developing for 2 years I started with HTML/CSS, but now I am passionate about backend development...
 
