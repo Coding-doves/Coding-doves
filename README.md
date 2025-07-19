@@ -1,20 +1,18 @@
-### Hi there 👋, my name is Ada B. Okonkwo
-#### Software developer
-![Software developer](https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif)
+# Hi there 👋, my name is Ada B. Okonkwo
+## Software developer
+---
+I've been developing for 3 years
 
-I've been developing for 2 years I started with HTML/CSS, but now I am passionate about backend development...
+- 🌍  I'm based in Nigeria
+- ✉️  You can contact me at [ada.b.okonkwo@gmail.com](mailto:ada.b.okonkwo@gmail.com)
+- 🧠  I was trained with C Programming, Python (FastAPI/Flask), JavaScript, Java, MySQL, Nginx, Bash Scripting, DevOps, Node.js, Next.js, Solidity, React
+- 🤝  I'm open to collaborating on Interesting Projects in C, Python, and JavaScript
+- ⚡  My major tool set is Python [fastAPI / flask] and reactjs
+---
+### Skills:
+- Technical: Python, RestAPI, FastAPI, Database Management, MySQL, PostgreSql, Algorithms and Data Structure, JavaScript, HTML, CSS and Bootstrap, C Programming, Java, Docker, Software testing, Unittest and API testing, Data visualization and Analysis, Pandas, Numpy, Matplotlib, Web scraping, Debugging, Git, GitHub and GitHub Actions, Excel, Microsoft 365, ngrok, AI, React.
 
-*   🌍  I'm based in Nigeria
-*   ✉️  You can contact me at [obenedicta4@gmail.com](mailto:obenedicta4@gmail.com)
-*   🧠  I'm learning C, Python, JavaScript, Java, MySQL, Nginx, Bash Scripting, DevOps, Node.js, Solidity
-*   🤝  I'm open to collaborating on Interesting Projects in C, Python, and JavaScript
-*   ⚡  I love travelling(tour trips)
-
-Skills: C / BASH/PYTHON / JS / HTML / CSS
-
-- 🔭 I’m currently working on Food order page (frontend) 
-- 🌱 I’m currently learning React, Python, Solidity 
-
+- Soft: Problem solving, Teamwork and collaboration, Remote communication.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Coding-doves)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ada-okonkwo-a1b597229/recent-activity/all//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](browndove.tech)  
 
