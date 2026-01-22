@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Ada B. Okonkwo
-## Software developer
+## Software Engineer
 ---
 I've been developing for 3 years
 
